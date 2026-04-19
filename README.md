@@ -6,3 +6,6 @@ git clone https://github.com/eoufuc/first-repository.git
 
 ## Last update
 2026-04-20 - Added feature branch
+
+## Author
+Anastasia Zhuravliova, student
